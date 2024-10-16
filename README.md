@@ -139,9 +139,3 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 [![GitHub Follow](https://img.shields.io/github/followers/AlizaHashmat-eng?label=Follow&style=social)](https://github.com/AlizaHashmat-eng) [![GitHub Star](https://img.shields.io/github/stars/AlizaHashmat-eng/python-user-authentication?style=social)](https://github.com/AlizaHashmat-eng/python-user-authentication/stargazers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aliza%20Hashmat-blue)](https://www.linkedin.com/in/aliza-hashmat)
 ```
-
-### Explanation of Additions:
-1. **Badges**: Show the status, contributions, and license of your project.
-2. **GitHub Info**: The readme now displays the number of stars, forks, and issues in your repository, giving it a professional look.
-3. **Contact Information**: Clear mention that the project is maintained by **Aliza Hashmat**, with an email address for contact.
-4. **Social Media Buttons**: At the end, I’ve added buttons that link to your GitHub and LinkedIn profiles, along with a "Star" button for your repository.
